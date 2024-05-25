@@ -1,4 +1,4 @@
 # Imporant-Links
 Architecture
 - Micro Frontend
-    - https://www.youtube.com/watch?v=Vm9jlRSlKVQ
+    - Serverless microfrontend  - https://www.youtube.com/watch?v=Vm9jlRSlKVQ
